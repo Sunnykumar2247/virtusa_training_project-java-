@@ -1,1 +1,0 @@
-CUST001,sunny,89fgh j,2345678,domestic,0.0,0.0,true
